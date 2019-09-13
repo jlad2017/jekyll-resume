@@ -1,19 +1,19 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+title: Janice Lee
+email: janice.lee@pomona.edu 
+description: my personal website 
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
+url: "jlad2017.github.io"
+name: Janice Lee
+job: Junior at Pomona College studying Computer Science and Statistics 
+location: Claremont, CA 
 languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+# twitter_username: mattcouchman
+github_username:  jlad2017
+# codepen_username:  mattcouchman
+email_address: janice.lee@pomona.edu
 
 # Build settings
 markdown: kramdown
