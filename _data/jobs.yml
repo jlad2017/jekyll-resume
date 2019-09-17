@@ -1,9 +1,9 @@
 -   title: Undergraduate Researcher  
     company: Georgia Institute of Technology, Department of Mathematics
-    description: 
+    description:  Implemented compressed sensing and machine learning optimization algorithms (e.g. Linearized Bregman, Adam) in Python to compare runtiems and small detail recovery for a 2D signal. Developed a new algorithm drawing on the strengths of multiple different implementations and compared its performance to existing solutions.  
 
 -   title: Teaching Assistant
     company: Pomona College, Department of Computer Science
-    description: Introduction to Computer Science in Python (FA2018), Introduction to Computer Science in AI (SP2019), Introduction to Languages and Theory (FA2019)
+    description: Current mentor for Introduction to Languages and Theory. {Former mentor for Introduction to Computer Science in Python (FA2018), Introduction to Computer Science in AI (SP2019)}.                              Monitor labs, hold regular mentor hours, and guide 25+ students through their assigned tasks. Debug code in Haskell and engage with student questions via online tools such as Piazza. Communicate with instructors frequently, report observations, and provide feedback.  
 
 

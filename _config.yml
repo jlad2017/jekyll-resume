@@ -7,12 +7,10 @@ description: my personal website
 baseurl: ""
 url: "jlad2017.github.io"
 name: Janice Lee
-job: Junior at Pomona College studying Computer Science and Statistics 
+job: Junior at Pomona College 
 location: Claremont, CA 
-languages: HTML, CSS and Javascript
-# twitter_username: mattcouchman
+languages: Python, Java, C++ 
 github_username:  jlad2017
-# codepen_username:  mattcouchman
 email_address: janice.lee@pomona.edu
 
 # Build settings
